@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">agender</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_agender">Agender</string>
+<string name="msg_login_to_your_a">Login to your account</string>
+<string name="lbl_sign_in">Sign In</string>
+<string name="lbl_sign_up_here">Sign up here</string>
+<string name="lbl_email">Email</string>
+<string name="msg_create_your_acc">Create your account</string>
+<string name="msg_don_t_have_an_a">Don\u2019t have an account? Sign up here</string>
+<string name="msg_or_sign_in_wit">-Or sign in with-</string>
+<string name="msg_confirm_passwor">Confirm password</string>
+<string name="lbl_sign_up">Sign Up</string>
+<string name="lbl_password">Password</string>
+<string name="msg_don_t_have_an_a2">Don\u2019t have an account? </string>
+<string name="msg_please_enter_valid_pa">Please enter valid password</string>
+<string name="msg_please_enter_valid_email">Please enter valid email</string>
+</resources>
